@@ -1,2 +1,2 @@
-# FW-ORB-SLAM
-这里是简介
+# FW-ORB-SLAM: A Monocular Visual SLAM Algorithm for Flapping-Wing Flying Robots
+Visual simultaneous localization and mapping (SLAM) is of great significance for flapping-wing flying robots (FWFRs) to enhance their autonomous navigation capabilities in complex environments. some collected original video are provided, and the repository containing these original images.More video and configuration files we will open source in the follow-up.
